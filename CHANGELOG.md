@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - images folder
 	- facebook.png
 	- instagram.png
-	- loja.png
+	- loja.jpg
 	- nintendo.png
 	- playstation.png
 	- xbox.png
