@@ -29,4 +29,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - index.html
 - main.css
 
+## [0.0.3] 2023-09-04
 
+### Changed
+
+- index.html
+- main.css
